@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Name for the application -->
+    <string name="app_name">Can I Borrow</string>
+
+    <!-- Label for overflow menu option that deletes all pet data in the app -->
+    <string name="action_delete_all_entries">Delete All Items</string>
+
+    <!-- Title for the activity to add a new item -->
+    <string name="editor_activity_title_new_pet">Add An Item</string>
+
+    <!-- Label for editor menu option to save item and leave editor -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current item-->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for item category of attributes in the editor -->
+    <string name="category_item">Item</string>
+
+    <!-- Label for borrower name category of attributes in the editor -->
+    <string name="category_borrower">Borrowed By</string>
+
+    <!-- Label for date information in the editor -->
+    <string name="category_date">Date</string>
+
+    <!-- Label for image information in the editor -->
+    <string name="category_Image">Image</string>
+
+    <!-- Text hint for item name field in the editor -->
+    <string name="hint_item_name">Item</string>
+
+    <!-- Text hint for borrower field in the editor -->
+    <string name="hint_pet_breed">Borrower</string>
+
+
+</resources>
