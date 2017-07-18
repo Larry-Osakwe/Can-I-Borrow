@@ -7,7 +7,7 @@
     <string name="action_delete_all_entries">Delete All Items</string>
 
     <!-- Title for the activity to add a new item -->
-    <string name="editor_activity_title_new_pet">Add An Item</string>
+    <string name="editor_activity_title_new_item">Add An Item</string>
 
     <!-- Label for editor menu option to save item and leave editor -->
     <string name="action_save">Save</string>

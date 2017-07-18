@@ -5,8 +5,10 @@ import android.support.v4.app.NavUtils;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.DatePicker;
 import android.widget.EditText;
 import android.widget.Spinner;
+import android.widget.TextView;
 
 
 /**
@@ -23,6 +25,15 @@ public class EditorActivity extends AppCompatActivity {
     /** EditText field to enter the return date */
     private Spinner mDateSpinner;
 
+    /** TextView to display date */
+    private TextView mDisplayDate;
+    private DatePicker dpResult;
+
+    private int year;
+    private int month;
+    private int day;
+
+    static final int DATE_DIALOG_ID = 999;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
