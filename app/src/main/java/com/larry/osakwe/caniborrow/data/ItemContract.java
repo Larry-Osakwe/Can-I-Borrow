@@ -1,4 +1,4 @@
-package com.larry.osakwe.caniborrow.Data;
+package com.larry.osakwe.caniborrow.data;
 
 /**
  * Created by Larry Osakwe on 7/18/2017.
