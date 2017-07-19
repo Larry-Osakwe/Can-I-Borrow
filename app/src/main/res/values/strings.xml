@@ -33,5 +33,10 @@
     <!-- Text hint for borrower field in the editor -->
     <string name="hint_pet_breed">Borrower</string>
 
+    <!-- Text for empty field in the catalog activity -->
+    <string name="empty_view_title_text">No items being lent</string>
+
+    <!-- Text for empty field in the catalog activity -->
+    <string name="empty_view_subtitle_text">You have all your stuff!</string>
 
 </resources>

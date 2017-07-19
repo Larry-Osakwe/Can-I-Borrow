@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Can-I-Borrow.iml" filepath="$PROJECT_DIR$/Can-I-Borrow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CanIBorrow.iml" filepath="$PROJECT_DIR$/CanIBorrow.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
