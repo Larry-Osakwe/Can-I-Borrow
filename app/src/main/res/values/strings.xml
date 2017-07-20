@@ -22,16 +22,16 @@
     <string name="category_borrower">Borrowed By</string>
 
     <!-- Label for date information in the editor -->
-    <string name="category_date">Date</string>
+    <string name="category_date">To Be Returned</string>
 
     <!-- Label for image information in the editor -->
     <string name="category_Image">Image</string>
 
     <!-- Text hint for item name field in the editor -->
-    <string name="hint_item_name">Item</string>
+    <string name="hint_item_name">Name</string>
 
     <!-- Text hint for borrower field in the editor -->
-    <string name="hint_pet_breed">Borrower</string>
+    <string name="hint_borrower_name">Who</string>
 
     <!-- Text for empty field in the catalog activity -->
     <string name="empty_view_title_text">No items being lent</string>
