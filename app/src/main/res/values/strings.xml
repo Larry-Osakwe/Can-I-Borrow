@@ -39,4 +39,22 @@
     <!-- Text for empty field in the catalog activity -->
     <string name="empty_view_subtitle_text">You have all your stuff!</string>
 
+    <!-- Fail to save message -->
+    <string name="editor_insert_item_failed">Failed to save item</string>
+
+    <!-- Successful save message-->
+    <string name="editor_insert_item_successful">Saved</string>
+    <string name="editor_activity_title_add_item">Add Item</string>
+    <string name="editor_activity_title_edit_item">Edit Item</string>
+    <string name="editor_update_item_failed">Failed to update</string>
+    <string name="editor_update_item_successful">Updated</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this item?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_item_failed">Error deleting item</string>
+    <string name="editor_delete_item_successful">Item deleted</string>
+
 </resources>

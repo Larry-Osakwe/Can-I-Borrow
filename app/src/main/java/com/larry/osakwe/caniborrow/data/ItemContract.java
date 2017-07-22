@@ -67,11 +67,16 @@ public class ItemContract {
         public final static String COLUMN_DATE_TIME = "date";
 
         /**
-         * The MIME type of the {@link #CONTENT_URI} for a single pet.
+         * The MIME type of the {@link #CONTENT_URI} for a single item.
          */
         public static final String CONTENT_LIST_TYPE = ContentResolver.CURSOR_DIR_BASE_TYPE +
                 "/" + CONTENT_AUTHORITY + "/" + PATH_ITEMS;
 
+        /**
+         * The MIME type of the {@link #CONTENT_URI} for a single item.
+         */
+        public static final String CONTENT_ITEM_TYPE =
+                ContentResolver.CURSOR_ITEM_BASE_TYPE + "/" + CONTENT_AUTHORITY + "/" + PATH_ITEMS;
 
     }
 }

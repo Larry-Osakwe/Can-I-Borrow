@@ -28,7 +28,7 @@
 
             <!-- Name field -->
             <EditText
-                android:id="@+id/edit_pet_name"
+                android:id="@+id/edit_item_name"
                 style="@style/EditorFieldStyle"
                 android:hint="@string/hint_item_name"
                 android:inputType="textCapWords" />
@@ -60,7 +60,7 @@
 
             <!-- Name field -->
             <EditText
-                android:id="@+id/edit_pet_breed"
+                android:id="@+id/edit_borrower_name"
                 style="@style/EditorFieldStyle"
                 android:hint="@string/hint_borrower_name"
                 android:inputType="textCapWords" />
